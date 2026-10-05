@@ -221,3 +221,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+log_file_path
